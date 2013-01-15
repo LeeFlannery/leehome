@@ -1,9 +1,6 @@
 #config.ru
 
 require 'rubygems'
-require 'bundler'
 
-Bundler.require
-
-require './leeflannery.rb'
-run leeflannery
+require './lee.rb'
+run Sinatra::Application
