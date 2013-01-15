@@ -1,0 +1,33 @@
+body {
+  background-color: #fff;
+  color: #000;
+  font: normal 16px/22px Georgia, serif;
+  margin: 0;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+.header-row {
+  margin: 40px 0;
+}
+
+.content-row {
+  margin: 60px 0;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 77px;
+  color: #909090;
+}
+
+h2 {
+  font: normal 22px/26px 'Montserrat', sans-serif;
+  padding: 0px;
+  margin: 0px;
+}
