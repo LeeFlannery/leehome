@@ -5,5 +5,5 @@ require 'bundler'
 
 Bundler.require
 
-require './myapp.rb'
-run MyApp
+require './leeflannery.rb'
+run leeflannery
