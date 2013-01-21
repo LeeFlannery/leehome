@@ -1,7 +1,8 @@
 body {
   background-color: #fff;
+  background-image: url('/images/background.png');
   color: #000;
-  font: normal 16px/22px Georgia, serif;
+  font: normal 16px/22px Helvetica, 'Helvetica Neue', Arial, sans-serif;
   margin: 0;
   padding-top: 20px;
   padding-bottom: 40px;
@@ -12,21 +13,19 @@ body {
   max-width: 800px;
 }
 
-.header-row {
-  margin: 40px 0;
-}
-
-.content-row {
-  margin: 60px 0;
-}
-
 h1 {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 77px;
-  color: #909090;
+  font: bold 77px/85px 'Montserrat', sans-serif;
+  color: #000;
+
 }
 
 h2 {
+  font: normal 28px/32px 'Montserrat', sans-serif;
+  padding: 0px;
+  margin: 0px;
+}
+
+h3 {
   font: normal 22px/26px 'Montserrat', sans-serif;
   padding: 0px;
   margin: 0px;
