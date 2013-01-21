@@ -2,7 +2,7 @@
 require 'sinatra'
 
 def development?
-   return true
+   return false
 end
 
 require 'sinatra/reloader' if development?
