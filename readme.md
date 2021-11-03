@@ -1,6 +1,6 @@
 leeflannery.com
 ===
 
-Homepage for Lee Flannery.
+Former homepage for Lee Flannery.
 
 Software developer with a beard. Seems important.
